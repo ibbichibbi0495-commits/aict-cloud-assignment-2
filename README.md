@@ -1,16 +1,27 @@
 # AICT Cloud Assignment 2
 
-## Purpose
-A small Python program that calculates summary statistics for a list of sensor readings,
-used to practise five cloud tools (Colab, GitHub, Drive, GitHub Pages, Overleaf).
+## Project Purpose
+A small Python program that prints the count, minimum, maximum and average of a list of sensor readings. It was built to practise five cloud tools: Google Colab, GitHub, Google Drive, GitHub Pages and Overleaf.
 
-## Readings
-[22, 24, 26, 28, 30]
+## Group Members
+- Muhammad Ibrahim (586160)
+- Muhammad Murtaza Zulfiqar (586248)
+- Shayan Ali (587624)
+- Syed Muhammad Umer Hassan (623933)
+
+## Readings Used
+`[22, 24, 26, 28, 30]`
 
 ## Expected Output
-Count: 5, Minimum: 22, Maximum: 30, Average: 26.0
+Count: 5
+Minimum: 22
+Maximum: 30
+Average: 26.0
 
 ## How to Run
-1. Open the notebook in Google Colab (or run `python readings.py` locally).
-2. Run the code cell.
-3. The count, minimum, maximum and average are printed.
+1. Open the notebook in Google Colab, or run `python readings.py` on your computer.
+2. Run the code cell (or the script).
+3. The count, minimum, maximum and average will be printed.
+
+## Live Project Page
+https://ibbichibbi0495-commits.github.io/aict-cloud-assignment-2/
